@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmienko
 - 👀 I’m interested in logic games 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Kafka
 - 📫 How to reach me https://www.linkedin.com/in/kamilmienko/
 
 <!---
